@@ -1,6 +1,6 @@
-package com.vojinp.accountservice.command.account.createaccount;
+package com.vojinp.accountservice.application.command.account.createaccount;
 
-import com.vojinp.accountservice.command.CommandResponse;
+import com.vojinp.accountservice.application.command.CommandResponse;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

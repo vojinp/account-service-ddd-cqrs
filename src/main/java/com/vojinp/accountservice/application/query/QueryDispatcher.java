@@ -1,4 +1,4 @@
-package com.vojinp.accountservice.query;
+package com.vojinp.accountservice.application.query;
 
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;

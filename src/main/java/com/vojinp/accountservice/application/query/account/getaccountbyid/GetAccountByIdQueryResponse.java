@@ -1,6 +1,6 @@
-package com.vojinp.accountservice.query.account.getaccountbyid;
+package com.vojinp.accountservice.application.query.account.getaccountbyid;
 
-import com.vojinp.accountservice.query.QueryResponse;
+import com.vojinp.accountservice.application.query.QueryResponse;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 

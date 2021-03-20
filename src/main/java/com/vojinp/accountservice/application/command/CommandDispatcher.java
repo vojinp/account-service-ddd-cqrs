@@ -1,4 +1,4 @@
-package com.vojinp.accountservice.command;
+package com.vojinp.accountservice.application.command;
 
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;
